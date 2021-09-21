@@ -1,11 +1,17 @@
-### Hi there 👋
+### SoftWare Developer
+Innovative and technically astute software developer well-versed in analyzing user needs and developing software to precisely meet diverse needs. Demonstrates mastery of multiple programming languages and proactively keeps up with industry trends.
+Driven to wear many programming hats with expertise in creating everything. Highly trained in web development and Android and known for having talents in Graphic Design.
 
+Desenvolvedor de software inovador e tecnicamente astuto, bem versado na análise das necessidades do usuário e no desenvolvimento de software para atender precisamente às diversas necessidades. Demonstra domínio de várias linguagens de programação e se mantém atualizado de forma proativa com as tendências do setor. Motivado a usar muitos chapéus de programação com experiência em criar tudo. Altamente treinado em desenvolvedor web e Android e conhecido por ter talentos em Design Gráfico.
+
+##🔭 I’m currently working on SMS based on Water billing software
+- 📫 How to reach me: fmanguel@gmail.com or 845620116 / 875274050
 <!--
 **FelicianoManguele/FelicianoManguele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
